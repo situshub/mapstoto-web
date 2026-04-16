@@ -1,1 +1,145 @@
-{"title":"MAPSTOTO Leaderboard - Top 100 Ranking & Hadiah Mingguan","description":"Cek leaderboard MAPSTOTO top 100 ranking pemain. Kumpulkan poin, naik peringkat, dan menangkan hadiah mingguan dari prize pool eksklusif.","keywords":"","h1":"MAPSTOTO Leaderboard: Top 100 Ranking & Hadiah Mingguan","subtitle":"Cek leaderboard MAPSTOTO top 100 ranking pemain. Kumpulkan poin, naik peringkat, dan menangkan hadiah mingguan dari prize pool eksklusif.","color":"#6366f1","font":"Inter","sections":[],"faq":[]}
+{
+  "title": "MAPSTOTO Leaderboard Ranking — Top 100 Pemain, Poin & Hadiah Mingguan",
+  "description": "MAPSTOTO leaderboard ranking top 100 pemain terbaik. Kumpulkan poin dari aktivitas bermain, naik peringkat, dan menangkan hadiah mingguan eksklusif.",
+  "keywords": "MAPSTOTO leaderboard, ranking MAPSTOTO, top 100 pemain, poin MAPSTOTO, hadiah mingguan MAPSTOTO",
+  "h1": "MAPSTOTO — Leaderboard Ranking: Top 100, Poin & Hadiah Mingguan",
+  "subtitle": "Sistem peringkat kompetitif yang memberikan rewards eksklusif kepada pemain paling konsisten dan berdedikasi",
+  "color": "#6366f1",
+  "font": "Quicksand",
+  "sections": [
+    {
+      "h2": "Sistem Leaderboard MAPSTOTO: Kompetisi Adil untuk Semua Member",
+      "h3": "Filosofi di Balik Desain Sistem Peringkat",
+      "paragraphs": [
+        "MAPSTOTO menghadirkan sistem leaderboard yang dirancang untuk memberikan pengalaman kompetitif yang adil dan menyenangkan bagi semua member terlepas dari ukuran bankroll mereka. Berbeda dengan leaderboard konvensional yang semata-mata mengurutkan berdasarkan jumlah taruhan terbesar, sistem ini menggunakan formula poin multidimensi yang mempertimbangkan konsistensi bermain, win rate, variasi game, dan aktivitas komunitas.",
+        "Filosofi utamanya adalah bahwa pemain dengan bankroll kecil tetap memiliki kesempatan realistis untuk masuk Top 100 jika mereka bermain secara konsisten dan bijak. Poin dihitung berdasarkan rasio taruhan terhadap saldo, bukan nominal absolut, sehingga pemain dengan taruhan Rp 5.000 per spin yang konsisten bisa mengakumulasi poin setara dengan pemain taruhan Rp 50.000 yang bermain sporadis.",
+        "Leaderboard direset setiap hari Senin pukul 00.00 WIB untuk memberikan kesempatan segar kepada semua member setiap minggunya. Histori peringkat mingguan sebelumnya tetap tersimpan di profil member sehingga pencapaian masa lalu tidak hilang. Pemain yang konsisten masuk Top 100 selama beberapa minggu berturut-turut mendapatkan badge khusus sebagai pengakuan atas dedikasi mereka."
+      ],
+      "list": [
+        "Formula poin multidimensi — bukan sekadar total taruhan",
+        "Rasio-based scoring memastikan fairness antar level bankroll",
+        "Reset mingguan setiap Senin 00.00 WIB untuk kompetisi segar",
+        "Histori peringkat tersimpan permanen di profil member",
+        "Badge eksklusif untuk pemain konsisten Top 100 multi-minggu"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Cara Mengumpulkan Poin dan Naik Peringkat",
+      "h3": "Formula Perhitungan Poin yang Transparan",
+      "paragraphs": [
+        "Sistem poin dirancang agar transparan dan dapat diprediksi oleh setiap member. Poin utama diperoleh dari aktivitas bermain dimana setiap taruhan menghasilkan poin berdasarkan persentase taruhan terhadap saldo aktif. Formula ini memastikan pemain yang mengambil risiko proporsional terhadap kapasitas mereka mendapatkan penghargaan yang setara tanpa memandang nominal taruhan absolut.",
+        "Bonus poin diberikan untuk aktivitas yang mendorong perilaku bermain yang sehat. Bermain di lebih dari tiga game berbeda dalam seminggu memberikan diversity bonus. Login setiap hari tanpa bermain berlebihan memberikan consistency bonus. Partisipasi dalam event komunitas seperti Q&A session dan sharing di forum juga menghasilkan engagement poin yang berkontribusi pada ranking.",
+        "Multiplier poin berlaku pada hari-hari tertentu seperti weekend dan hari libur nasional dimana poin yang diperoleh dikalikan 1.5x-2x. Informasi tentang jadwal multiplier dipublikasikan di channel pengumuman setiap minggu sehingga member bisa merencanakan sesi bermain strategis untuk memaksimalkan akumulasi poin pada waktu yang optimal."
+      ],
+      "list": [],
+      "ordered": [
+        "Bermain game apapun — poin proporsional terhadap rasio taruhan/saldo",
+        "Variasi game — diversity bonus untuk 3+ game berbeda per minggu",
+        "Konsistensi login — consistency bonus untuk login harian",
+        "Partisipasi komunitas — engagement poin dari aktivitas forum/Telegram",
+        "Manfaatkan hari multiplier (weekend/hari libur) untuk poin ekstra"
+      ],
+      "table": null
+    },
+    {
+      "h2": "Struktur Hadiah Mingguan untuk Top 100 MAPSTOTO",
+      "h3": "",
+      "paragraphs": [
+        "Hadiah mingguan didistribusikan setiap Senin pukul 12.00 WIB setelah kalkulasi final ranking minggu sebelumnya. Total prize pool mingguan mencapai Rp 50.000.000 yang didistribusikan secara berjenjang kepada 100 pemain teratas. Peringkat 1 mendapatkan hadiah terbesar sementara peringkat 51-100 mendapatkan hadiah yang tetap bernilai meskipun lebih kecil secara nominal.",
+        "Tabel distribusi hadiah berikut menunjukkan pembagian prize pool berdasarkan posisi ranking. Hadiah berupa kredit bermain yang langsung dikreditkan ke saldo member tanpa syarat turnover sehingga bisa langsung digunakan untuk bermain atau ditarik sesuai keinginan pemenang. Transparansi ini menjadikan hadiah leaderboard salah satu reward paling menarik di platform.",
+        "Selain hadiah utama, pemain yang masuk Top 10 juga mendapatkan akses ke turnamen VIP eksklusif bulanan dengan prize pool terpisah sebesar Rp 100.000.000. Ini menciptakan insentif berlapis dimana performa mingguan yang konsisten membuka pintu ke hadiah yang lebih besar di level kompetisi yang lebih tinggi. Untuk informasi tentang konsep <a href=\"https://en.wikipedia.org/wiki/Gamification\" target=\"_blank\" rel=\"noopener noreferrer\">gamification</a>, kunjungi referensi terkait."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Posisi Ranking", "Hadiah per Member", "Total Alokasi", "Bonus Tambahan", "Frekuensi"],
+        "rows": [
+          ["Peringkat 1", "Rp 10.000.000", "Rp 10.000.000", "Akses turnamen VIP + badge emas", "Mingguan"],
+          ["Peringkat 2-3", "Rp 5.000.000", "Rp 10.000.000", "Akses turnamen VIP + badge perak", "Mingguan"],
+          ["Peringkat 4-10", "Rp 2.000.000", "Rp 14.000.000", "Akses turnamen VIP + badge perunggu", "Mingguan"],
+          ["Peringkat 11-25", "Rp 500.000", "Rp 7.500.000", "Multiplier poin minggu berikutnya", "Mingguan"],
+          ["Peringkat 26-50", "Rp 200.000", "Rp 5.000.000", "Free spin bonus", "Mingguan"],
+          ["Peringkat 51-100", "Rp 70.000", "Rp 3.500.000", "Loyalty points tambahan", "Mingguan"]
+        ]
+      }
+    },
+    {
+      "h2": "Strategi Efektif untuk Naik ke Top 100",
+      "h3": "",
+      "paragraphs": [
+        "Berdasarkan analisis terhadap profil pemain yang konsisten masuk Top 100, beberapa strategi efektif dapat diidentifikasi. Pertama, konsistensi bermain harian lebih efektif daripada sesi marathon karena poin konsistensi login memberikan kontribusi kumulatif yang signifikan dalam kalkulasi akhir minggu. Bermain 30-60 menit setiap hari menghasilkan akumulasi poin lebih tinggi daripada bermain 5 jam dalam satu hari.",
+        "Kedua, diversifikasi game memberikan diversity bonus yang tidak boleh diremehkan. Pemain yang hanya bermain satu game kehilangan bonus ini yang bisa menjadi pembeda antara masuk dan tidak masuk Top 100 terutama pada posisi 80-100 yang sangat kompetitif. Coba minimal tiga game berbeda per minggu tanpa mengorbankan fokus pada game utama yang paling dikuasai.",
+        "Ketiga, manfaatkan hari multiplier secara strategis. Weekend dan hari libur dengan multiplier 1.5x-2x adalah momen optimal untuk bermain lebih intensif. Pemain cerdas mengalokasikan sebagian session budget lebih besar pada hari-hari ini sambil tetap mematuhi aturan bankroll management yang sudah ditetapkan agar kejar poin tidak berujung pada kerugian finansial."
+      ],
+      "list": [
+        "Bermain harian 30-60 menit lebih efektif dari sesi marathon",
+        "Diversifikasi ke minimal 3 game berbeda per minggu",
+        "Alokasikan budget lebih pada hari multiplier (weekend/hari libur)",
+        "Partisipasi aktif di komunitas untuk engagement poin tambahan",
+        "Monitor posisi ranking harian untuk mengukur progres dan target"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Badge Eksklusif dan Sistem Penghargaan Jangka Panjang",
+      "h3": "",
+      "paragraphs": [
+        "Selain hadiah mingguan, sistem leaderboard juga menawarkan penghargaan jangka panjang melalui badge eksklusif yang ditampilkan di profil member. Badge ini berfungsi sebagai status symbol dalam komunitas dan beberapa badge tertentu memberikan benefit tambahan seperti akses ke event eksklusif atau multiplier poin permanen.",
+        "Badge Iron diberikan kepada member yang masuk Top 100 pertama kalinya. Bronze untuk 4 minggu kumulatif, Silver untuk 12 minggu, Gold untuk 24 minggu, dan Platinum untuk 52 minggu kumulatif di Top 100. Setiap level badge memberikan multiplier poin permanen yang semakin meningkat, menciptakan snowball effect dimana pemain berpengalaman semakin mudah mempertahankan posisi mereka.",
+        "Member dengan badge Platinum yang sangat langka hanya berjumlah 12 orang dari seluruh basis member dan mendapatkan undangan ke annual gala dinner dimana mereka bisa bertemu langsung dengan tim manajemen dan sesama pemain elite. Event ini menjadi puncak penghargaan komunitas dan mempererat hubungan antara platform dengan member paling setia. Detail lengkap tersedia di <a href=\"#faq\">FAQ</a> kami."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Fair Play Policy dan Pencegahan Manipulasi Ranking",
+      "h3": "",
+      "paragraphs": [
+        "Integritas leaderboard dijaga melalui sistem anti-manipulasi yang mendeteksi dan mencegah berbagai bentuk kecurangan. Multi-accounting untuk mengakumulasi poin dari beberapa akun terdeteksi melalui device fingerprinting dan analisis perilaku. Wash trading dimana pemain sengaja melakukan taruhan tanpa niat bermain sungguhan juga teridentifikasi melalui pola taruhan anomali.",
+        "Algoritma deteksi berjalan otomatis dan me-flag akun yang menunjukkan indikasi manipulasi untuk review manual oleh tim integrity. Akun yang terbukti melanggar fair play policy akan didiskualifikasi dari leaderboard dan hadiah yang sudah diperoleh melalui kecurangan akan di-void. Pelanggaran berulang bisa mengakibatkan pembatasan permanen dari program leaderboard.",
+        "Transparansi juga dijaga melalui publikasi daftar pemenang mingguan di channel pengumuman resmi. Member lain dapat melaporkan jika mencurigai adanya kecurangan melalui formulir khusus yang tersedia di halaman <a href=\"#perbandingan\">perbandingan</a> ranking. Setiap laporan ditindaklanjuti dalam waktu 48 jam dengan hasil investigasi dikomunikasikan kepada pelapor secara konfidensial."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Cara Memantau Posisi Ranking dan Kompetitor",
+      "h3": "",
+      "paragraphs": [
+        "Dashboard leaderboard menampilkan posisi ranking real-time yang diperbarui setiap 5 menit. Member bisa melihat posisi mereka, total poin yang terakumulasi, breakdown poin per kategori (bermain, diversity, konsistensi, engagement), dan gap poin dengan posisi di atas dan di bawah mereka. Informasi ini membantu merencanakan strategi sisa minggu untuk mencapai target posisi.",
+        "Fitur historical comparison memungkinkan member membandingkan performa minggu ini dengan minggu-minggu sebelumnya. Grafik tren menunjukkan apakah pola bermain Anda menghasilkan poin yang meningkat, stabil, atau menurun dari waktu ke waktu. Insight ini berharga untuk fine-tuning strategi akumulasi poin tanpa mengorbankan prinsip responsible gaming.",
+        "Notifikasi push tersedia untuk alert saat posisi ranking berubah signifikan — misalnya naik atau turun 10 posisi, mendekati zona hadiah (posisi 50 atau 100), atau ketika kompetitor terdekat menggeser posisi Anda. Fitur ini menjaga keterlibatan tanpa memerlukan monitoring manual yang konstan sehingga pengalaman kompetisi tetap menyenangkan dan tidak menjadi beban."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apakah semua member otomatis masuk leaderboard MAPSTOTO?",
+      "a": "Ya, semua member aktif yang bermain minimal satu game dalam minggu berjalan otomatis masuk kalkulasi leaderboard. Tidak perlu pendaftaran terpisah. Posisi ranking akan muncul di dashboard begitu Anda mulai mengakumulasi poin dari aktivitas bermain."
+    },
+    {
+      "q": "Bagaimana cara mengklaim hadiah mingguan?",
+      "a": "Hadiah dikreditkan otomatis ke saldo bermain Anda setiap Senin pukul 12.00 WIB tanpa perlu klaim manual. Kredit bermain yang diterima tidak memiliki syarat turnover sehingga bisa langsung digunakan atau ditarik. Notifikasi akan dikirim saat hadiah sudah masuk ke saldo."
+    },
+    {
+      "q": "Apakah pemain dengan bankroll kecil bisa bersaing di Top 100?",
+      "a": "Ya, sistem poin berbasis rasio memastikan fairness antar level bankroll. Pemain dengan taruhan kecil yang bermain konsisten dan memanfaatkan bonus diversity serta consistency bisa mengakumulasi poin kompetitif. Beberapa pemain Top 50 aktif bermain dengan average bet di bawah Rp 10.000."
+    },
+    {
+      "q": "Kapan leaderboard di-reset setiap minggunya?",
+      "a": "Reset terjadi setiap Senin pukul 00.00 WIB. Ranking final minggu sebelumnya dikunci pada Minggu 23.59 WIB dan hadiah dikalkulasi setelahnya. Histori ranking tersimpan permanen di profil sehingga pencapaian masa lalu tetap tercatat."
+    },
+    {
+      "q": "Apa yang terjadi jika terdeteksi melakukan kecurangan?",
+      "a": "Akun yang terbukti manipulasi ranking akan didiskualifikasi dari leaderboard minggu tersebut dan hadiah yang diperoleh melalui kecurangan di-void. Pelanggaran berulang mengakibatkan pembatasan permanen dari seluruh program leaderboard dan potensi sanksi tambahan pada akun."
+    }
+  ]
+}

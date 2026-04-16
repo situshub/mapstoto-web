@@ -1,1 +1,150 @@
-{"title":"MAPSTOTO Turnamen Slot - Kompetisi Mingguan & Prize Pool","description":"Ikuti turnamen slot mingguan MAPSTOTO dengan prize pool jutaan rupiah. Pelajari format bracket, cara mendaftar, dan strategi menang.","keywords":"","h1":"MAPSTOTO Turnamen Slot: Kompetisi Mingguan & Prize Pool","subtitle":"Ikuti turnamen slot mingguan MAPSTOTO dengan prize pool jutaan rupiah. Pelajari format bracket, cara mendaftar, dan strategi menang.","color":"#10b981","font":"DM Sans","sections":[],"faq":[]}
+{
+  "title": "MAPSTOTO Turnamen Slot — Kompetisi Mingguan, Bracket & Prize Pool",
+  "description": "MAPSTOTO turnamen slot mingguan dengan prize pool jutaan rupiah. Pelajari format bracket, syarat pendaftaran, strategi menang turnamen, dan jadwal kompetisi.",
+  "keywords": "MAPSTOTO turnamen slot, kompetisi slot mingguan, prize pool MAPSTOTO, bracket turnamen slot, cara ikut turnamen MAPSTOTO",
+  "h1": "MAPSTOTO — Turnamen Slot: Kompetisi Mingguan, Bracket & Prize Pool",
+  "subtitle": "Kompetisi slot yang memberikan pengalaman gaming lebih seru dengan hadiah dari prize pool eksklusif setiap minggu",
+  "color": "#10b981",
+  "font": "Inter",
+  "sections": [
+    {
+      "h2": "Format Turnamen Slot Mingguan MAPSTOTO yang Inovatif",
+      "h3": "Bagaimana Kompetisi Ini Berbeda dari Bermain Biasa",
+      "paragraphs": [
+        "MAPSTOTO menyelenggarakan turnamen slot mingguan yang mengubah pengalaman bermain individual menjadi kompetisi komunal yang mengasyikkan. Format turnamen menggunakan sistem poin kompetitif dimana pemain bersaing berdasarkan performa relatif — bukan sekadar siapa yang menang paling banyak, tetapi siapa yang bermain paling optimal terhadap parameter kompetisi yang ditentukan setiap minggunya.",
+        "Setiap turnamen memiliki game pilihan (featured games) yang telah dipilih oleh panitia. Hanya putaran pada game tersebut yang dihitung dalam kalkulasi skor turnamen. Parameter kompetisi bervariasi setiap minggu: kadang dinilai berdasarkan multiplier kemenangan terbesar dalam satu putaran, kadang berdasarkan total kemenangan kumulatif, atau terkadang berdasarkan jumlah kemenangan beruntun terpanjang.",
+        "Variasi parameter ini memastikan bahwa turnamen tidak monoton dan pemain dengan berbagai gaya bermain memiliki kesempatan menang. Pemain konservatif mungkin unggul di parameter konsistensi kemenangan, sementara pemain agresif memiliki keunggulan di parameter multiplier tertinggi. Pendekatan ini menjaga kompetisi tetap segar dan inklusif untuk seluruh spektrum pemain."
+      ],
+      "list": [
+        "Turnamen mingguan dengan parameter kompetisi yang bervariasi",
+        "Featured games dipilih ulang setiap minggu dari berbagai provider",
+        "Penilaian berdasarkan performa relatif, bukan absolut",
+        "Terbuka untuk semua member aktif tanpa biaya pendaftaran tambahan",
+        "Format inklusif yang memberikan peluang adil untuk semua gaya bermain"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Sistem Bracket dan Tahapan Kompetisi",
+      "h3": "Dari Babak Kualifikasi hingga Grand Final",
+      "paragraphs": [
+        "Turnamen menggunakan sistem bracket dua tahap yang dimulai dari babak kualifikasi dan berakhir di grand final. Babak kualifikasi berlangsung dari Senin hingga Jumat dimana seluruh peserta bersaing untuk mengumpulkan poin sebanyak mungkin. Di akhir babak kualifikasi, 64 peserta dengan poin tertinggi lolos ke grand final yang berlangsung pada hari Sabtu.",
+        "Grand final menggunakan format eliminasi langsung dimana 64 peserta dibagi menjadi 32 pasangan head-to-head. Setiap pasangan bermain game yang sama dalam waktu bersamaan selama 30 menit, dan pemain dengan skor lebih tinggi maju ke putaran berikutnya. Proses ini berlanjut melalui Round of 32, Round of 16, Quarter Final, Semi Final, hingga Final yang menentukan juara mingguan.",
+        "Format bracket head-to-head memberikan intensitas yang tidak bisa ditemukan di mode bermain biasa. Mengetahui bahwa Anda bersaing langsung dengan pemain lain dalam waktu terbatas menciptakan adrenalin yang membuat setiap putaran lebih bermakna. Konsep format eliminasi turnamen ini terinspirasi dari struktur kompetisi <a href=\"https://en.wikipedia.org/wiki/Single-elimination_tournament\" target=\"_blank\" rel=\"noopener noreferrer\">single-elimination tournament</a> yang populer di dunia olahraga dan esports."
+      ],
+      "list": [],
+      "ordered": [
+        "Senin-Jumat: Babak kualifikasi — semua peserta bersaing bebas",
+        "Jumat 23.59 WIB: Cut-off kualifikasi — Top 64 lolos ke final",
+        "Sabtu 13.00 WIB: Grand Final Round of 32 dimulai",
+        "Sabtu 15.00 WIB: Quarter Final dan Semi Final",
+        "Sabtu 17.00 WIB: Grand Final dan pengumuman juara mingguan"
+      ],
+      "table": null
+    },
+    {
+      "h2": "Distribusi Prize Pool Turnamen Mingguan",
+      "h3": "",
+      "paragraphs": [
+        "Prize pool turnamen mingguan standar adalah Rp 75.000.000 yang didistribusikan kepada peserta yang lolos ke grand final dan beberapa posisi teratas di babak kualifikasi. Tabel <a href=\"#perbandingan\">perbandingan</a> berikut menunjukkan pembagian hadiah detail untuk setiap posisi sehingga peserta bisa mengetahui potensi reward yang bisa diperoleh.",
+        "Selain prize pool uang tunai, juara mingguan juga mendapatkan trophy virtual eksklusif dan gelar yang ditampilkan di profil selama satu minggu penuh. Pada turnamen spesial bulanan yang diadakan di minggu terakhir setiap bulan, prize pool ditingkatkan menjadi Rp 150.000.000 dengan format Grand Championship yang lebih prestisius."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Posisi", "Hadiah Uang Tunai", "Bonus Tambahan", "Total Reward", "Format Babak"],
+        "rows": [
+          ["Juara 1", "Rp 20.000.000", "Trophy + gelar Champion", "Rp 20.000.000+", "Grand Final"],
+          ["Juara 2", "Rp 10.000.000", "Badge Runner-up", "Rp 10.000.000+", "Grand Final"],
+          ["Semi Finalis (3-4)", "Rp 5.000.000", "Badge Semi Finalist", "Rp 5.000.000/orang", "Semi Final"],
+          ["Quarter Finalis (5-8)", "Rp 2.500.000", "Free entry next tournament", "Rp 2.500.000/orang", "Quarter Final"],
+          ["Round of 16 (9-16)", "Rp 1.000.000", "Multiplier poin leaderboard", "Rp 1.000.000/orang", "R16"],
+          ["Kualifikasi Top 17-64", "Rp 250.000", "Badge Qualifier", "Rp 250.000/orang", "Kualifikasi"]
+        ]
+      }
+    },
+    {
+      "h2": "Cara Mendaftar dan Syarat Keikutsertaan Turnamen",
+      "h3": "",
+      "paragraphs": [
+        "Pendaftaran turnamen terbuka untuk seluruh member aktif tanpa biaya entry fee. Untuk berpartisipasi, member cukup mengklik tombol Join Tournament di halaman turnamen dan mulai bermain game yang ditentukan selama periode kualifikasi. Tidak ada deposit minimum khusus untuk turnamen — Anda bermain dengan bankroll normal dan setiap putaran pada featured games otomatis dihitung dalam skor kompetisi.",
+        "Syarat kelayakan mencakup status akun aktif dengan verifikasi KYC lengkap dan minimal satu deposit dalam 30 hari terakhir. Member yang sedang dalam periode self-exclusion atau memiliki sanksi aktif dari tim integrity tidak dapat berpartisipasi. Batas usia minimum 18 tahun berlaku sesuai regulasi lisensi yang mengatur operasional platform.",
+        "Peserta yang lolos ke grand final akan menerima notifikasi melalui email dan push notification pada Jumat malam beserta jadwal bracket mereka. Kehadiran online pada waktu yang ditentukan wajib untuk setiap round — ketidakhadiran otomatis menjadi kekalahan walkover yang memajukan lawan ke putaran berikutnya tanpa perlu bermain."
+      ],
+      "list": [
+        "Gratis tanpa entry fee — terbuka untuk semua member aktif",
+        "KYC lengkap dan minimal satu deposit dalam 30 hari terakhir",
+        "Bermain di featured games selama periode kualifikasi",
+        "Notifikasi otomatis jika lolos ke grand final",
+        "Kehadiran online wajib pada jadwal bracket yang ditentukan"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Strategi Menang Turnamen untuk Berbagai Level Pemain",
+      "h3": "",
+      "paragraphs": [
+        "Strategi turnamen berbeda signifikan dari strategi bermain biasa karena tujuannya bukan mengoptimalkan profit pribadi tetapi mengumpulkan skor tertinggi dalam parameter yang ditentukan. Untuk parameter multiplier terbesar, strategi optimal adalah bermain di game volatilitas tinggi dengan taruhan moderat — memberikan peluang lebih besar mendapatkan multiplier besar dalam jumlah putaran yang terbatas.",
+        "Untuk parameter total kemenangan kumulatif, strategi bergeser ke volume play dengan taruhan lebih kecil pada game hit rate tinggi. Semakin banyak putaran yang dimainkan, semakin besar total kemenangan kumulatif yang bisa diakumulasi. Game slot klasik dengan hit rate 35-40% menjadi pilihan strategis karena menghasilkan kemenangan kecil secara konsisten yang menumpuk secara kumulatif.",
+        "Manajemen waktu di babak grand final juga kritikal. Dengan durasi 30 menit per round head-to-head, setiap detik berharga. Pemain yang menghabiskan waktu terlalu lama memilih game atau ragu-ragu dalam sizing taruhan kehilangan putaran berharga. Persiapkan strategi dan sizing sebelum round dimulai agar bisa langsung bermain efisien begitu timer mulai berjalan."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Turnamen Spesial dan Event Musiman Eksklusif",
+      "h3": "",
+      "paragraphs": [
+        "Selain turnamen mingguan reguler, platform juga menyelenggarakan turnamen spesial pada momen-momen tertentu sepanjang tahun. Grand Championship bulanan di minggu terakhir setiap bulan hadir dengan prize pool Rp 150.000.000 dan format extended yang melibatkan 128 peserta alih-alih 64. Turnamen musiman seperti Ramadan Cup, Independence Day Championship, dan New Year Grand Prix menawarkan prize pool hingga Rp 300.000.000.",
+        "Turnamen invitational eksklusif juga diadakan setiap kuartal khusus untuk 32 pemain dengan performa turnamen terbaik sepanjang periode tersebut. Event ini menggunakan format round-robin yang memastikan setiap peserta bermain melawan semua peserta lain, menguji konsistensi di tingkat yang lebih tinggi. Hadiah invitational termasuk merchandise limited edition dan undangan ke event offline tahunan.",
+        "Kalender turnamen lengkap dipublikasikan pada awal setiap bulan melalui halaman event dan channel pengumuman resmi. Member disarankan untuk memasukkan jadwal turnamen yang diminati ke dalam kalender pribadi agar tidak terlewatkan. Untuk informasi lebih detail tentang turnamen tertentu, silakan cek <a href=\"#faq\">FAQ</a> di bagian bawah halaman."
+      ],
+      "list": [
+        "Grand Championship bulanan: prize pool Rp 150 juta, 128 peserta",
+        "Turnamen musiman: Ramadan Cup, Independence Day, New Year Grand Prix",
+        "Invitational kuartal: 32 pemain terbaik, format round-robin",
+        "Prize pool event besar mencapai Rp 300 juta per turnamen",
+        "Kalender turnamen dipublikasikan setiap awal bulan"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Fair Play dan Integritas Kompetisi Turnamen",
+      "h3": "",
+      "paragraphs": [
+        "Integritas turnamen dijaga melalui serangkaian protokol yang memastikan kompetisi berjalan adil untuk semua peserta. Sistem anti-collusion mendeteksi jika dua peserta dalam satu bracket sengaja bekerja sama untuk memanipulasi hasil. Monitoring real-time selama grand final memastikan tidak ada penggunaan bot atau automated play yang bisa memberikan keunggulan tidak adil.",
+        "Setiap skor turnamen diverifikasi secara independen oleh sistem audit sebelum hasil difinalisasi. Peserta memiliki waktu 24 jam setelah pengumuman untuk mengajukan protest jika merasa ada ketidaksesuaian. Tim integrity akan meninjau data secara menyeluruh dan memberikan keputusan final dalam 48 jam yang bersifat binding.",
+        "Standar fair play yang ketat ini memastikan bahwa turnamen bukan sekadar hiburan tetapi kompetisi yang dipercaya oleh seluruh komunitas. Reputasi integritas turnamen terbukti dari tingkat partisipasi yang terus meningkat 15% setiap bulannya menunjukkan kepercayaan komunitas terhadap keadilan sistem kompetisi yang diselenggarakan."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apakah ada biaya untuk mengikuti turnamen slot MAPSTOTO?",
+      "a": "Tidak, turnamen mingguan sepenuhnya gratis tanpa entry fee. Anda bermain menggunakan bankroll normal dan setiap putaran pada featured games otomatis dihitung dalam skor kompetisi. Tidak ada deposit tambahan yang diperlukan khusus untuk turnamen."
+    },
+    {
+      "q": "Bagaimana jika saya lolos grand final tapi tidak bisa online pada waktunya?",
+      "a": "Ketidakhadiran pada jadwal bracket yang ditentukan dianggap sebagai kekalahan walkover. Lawan Anda akan otomatis maju ke putaran berikutnya. Karena itu, pastikan untuk memeriksa jadwal dan set reminder sebelum hari grand final berlangsung."
+    },
+    {
+      "q": "Apakah hadiah turnamen memiliki syarat turnover?",
+      "a": "Tidak, hadiah turnamen berupa kredit bermain yang langsung dikreditkan ke saldo tanpa syarat turnover. Anda bisa langsung menggunakan hadiah untuk bermain atau menariknya sesuai keinginan tanpa persyaratan tambahan apapun."
+    },
+    {
+      "q": "Bisakah saya mengikuti lebih dari satu turnamen sekaligus?",
+      "a": "Turnamen mingguan reguler hanya satu yang berjalan dalam satu waktu. Namun jika ada turnamen spesial yang jadwalnya bertepatan, Anda bisa mendaftar ke beberapa turnamen selama featured games-nya berbeda sehingga skor dihitung terpisah untuk masing-masing kompetisi."
+    },
+    {
+      "q": "Berapa peserta yang biasanya berkompetisi dalam babak kualifikasi?",
+      "a": "Rata-rata 1.500-2.500 peserta aktif per minggu berkompetisi di babak kualifikasi. Dari jumlah tersebut, 64 peserta teratas lolos ke grand final. Ini berarti sekitar 2.5-4.3% peserta yang berhasil lolos, menjadikan kualifikasi sebagai tahap yang sangat kompetitif."
+    }
+  ]
+}

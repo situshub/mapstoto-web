@@ -1,1 +1,154 @@
-{"title":"MAPSTOTO Maintenance Jadwal - Downtime & Status Page","description":"Cek jadwal maintenance MAPSTOTO setiap Selasa 03-05 WIB. Pantau status page real-time dan ketahui dampak downtime terhadap akun Anda.","keywords":"","h1":"MAPSTOTO Maintenance Jadwal: Downtime Selasa 03-05 WIB","subtitle":"Cek jadwal maintenance MAPSTOTO setiap Selasa 03-05 WIB. Pantau status page real-time dan ketahui dampak downtime terhadap akun Anda.","color":"#f97316","font":"Montserrat","sections":[],"faq":[]}
+{
+  "title": "MAPSTOTO Maintenance Jadwal — Downtime Selasa 03-05 WIB & Status Page",
+  "description": "MAPSTOTO maintenance rutin setiap Selasa pukul 03.00-05.00 WIB. Pantau status page real-time, riwayat downtime, dan notifikasi pemeliharaan server.",
+  "keywords": "MAPSTOTO maintenance, jadwal downtime MAPSTOTO, status page MAPSTOTO, pemeliharaan server MAPSTOTO, MAPSTOTO offline schedule",
+  "h1": "MAPSTOTO — Jadwal Maintenance: Downtime Selasa 03-05 WIB & Status Page",
+  "subtitle": "Informasi lengkap jadwal pemeliharaan rutin dan cara memantau status server platform secara real-time",
+  "color": "#f97316",
+  "font": "Rubik",
+  "sections": [
+    {
+      "h2": "Jadwal Maintenance Rutin MAPSTOTO Setiap Minggu",
+      "h3": "Mengapa Selasa Dini Hari Dipilih sebagai Waktu Pemeliharaan",
+      "paragraphs": [
+        "MAPSTOTO menjadwalkan maintenance rutin setiap hari Selasa pukul 03.00 hingga 05.00 WIB. Pemilihan waktu ini didasarkan pada analisis traffic selama 12 bulan yang menunjukkan bahwa periode tersebut memiliki jumlah pengguna aktif terendah sepanjang minggu. Rata-rata hanya 2.3% dari total pengguna harian yang online pada jam tersebut, sehingga dampak gangguan dapat diminimalkan secara signifikan.",
+        "Selama window maintenance dua jam tersebut, tim infrastruktur melakukan berbagai tugas penting mulai dari patching keamanan server, optimasi database, pembersihan log sistem, hingga penerapan update minor yang tidak memerlukan downtime extended. Proses ini dilakukan secara terstruktur mengikuti runbook yang telah diuji dan diverifikasi untuk menghindari kesalahan operasional yang dapat memperpanjang durasi maintenance.",
+        "Pengguna yang mencoba mengakses platform selama periode maintenance akan melihat halaman informasi khusus yang menampilkan estimasi waktu selesai dan countdown timer. Halaman ini juga menyediakan tautan ke channel Telegram resmi dimana tim akan memberikan update progres secara berkala jika terjadi perpanjangan waktu maintenance di luar jadwal yang sudah ditentukan sebelumnya."
+      ],
+      "list": [
+        "Maintenance rutin: setiap Selasa 03.00-05.00 WIB",
+        "Traffic terendah minggu: hanya 2.3% pengguna aktif pada jam tersebut",
+        "Durasi standar: 2 jam (jarang melebihi batas waktu)",
+        "Notifikasi dikirim 24 jam sebelum maintenance dimulai",
+        "Halaman informasi khusus dengan countdown timer saat downtime"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Status Page Real-Time dan Cara Mengaksesnya",
+      "h3": "Komponen yang Dipantau dalam Status Page",
+      "paragraphs": [
+        "Status page merupakan dashboard publik yang menampilkan kondisi seluruh komponen infrastruktur secara real-time. Pengguna dapat mengakses halaman ini kapan saja untuk memeriksa apakah layanan berjalan normal atau sedang mengalami gangguan. Setiap komponen ditandai dengan indikator warna: hijau untuk operasional normal, kuning untuk degradasi performa, dan merah untuk gangguan total.",
+        "Komponen yang dipantau meliputi server utama, server game, sistem pembayaran, API gateway, layanan email, dan CDN distribusi konten. Masing-masing komponen memiliki metrik uptime tersendiri yang diperbarui setiap 60 detik. Histori status selama 90 hari terakhir juga tersedia dalam format grafik timeline sehingga pengguna dapat melihat pola ketersediaan layanan dari waktu ke waktu.",
+        "Selain memantau secara manual, pengguna dapat berlangganan notifikasi otomatis melalui email atau webhook. Setiap kali terjadi perubahan status pada komponen manapun, subscriber akan menerima peringatan dalam hitungan detik. Fitur ini sangat berguna bagi pengguna yang ingin mengetahui kapan platform kembali online setelah maintenance tanpa harus terus-menerus memeriksa secara manual."
+      ],
+      "list": [],
+      "ordered": [
+        "Buka halaman status page melalui tautan di footer situs utama",
+        "Periksa indikator warna pada setiap komponen layanan",
+        "Klik komponen tertentu untuk melihat histori 90 hari terakhir",
+        "Klik tombol Subscribe untuk berlangganan notifikasi otomatis",
+        "Pilih metode notifikasi: email, SMS, atau webhook integration"
+      ],
+      "table": null
+    },
+    {
+      "h2": "Riwayat Downtime dan Uptime Record MAPSTOTO",
+      "h3": "",
+      "paragraphs": [
+        "Transparansi operasional menjadi prioritas utama dalam pengelolaan infrastruktur platform. Seluruh insiden downtime dicatat dan dipublikasikan secara terbuka termasuk root cause analysis dan langkah pencegahan yang diambil. Sepanjang kuartal pertama 2026, total unplanned downtime hanya mencapai 47 menit dari total waktu operasional, menghasilkan uptime record sebesar 99.96% yang melampaui target SLA internal.",
+        "Tabel berikut merangkum statistik downtime per bulan selama enam bulan terakhir. Data ini diambil langsung dari sistem monitoring pihak ketiga yang independen untuk menjamin objektivitas dan akurasi. Konsep <a href=\"https://en.wikipedia.org/wiki/High_availability\" target=\"_blank\" rel=\"noopener noreferrer\">high availability</a> menjadi fondasi utama dalam arsitektur infrastruktur yang dibangun oleh tim engineering."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": {
+        "headers": ["Bulan", "Planned Downtime", "Unplanned Downtime", "Uptime %", "Insiden", "Resolusi Rata-rata"],
+        "rows": [
+          ["November 2025", "8 jam (4x maint)", "22 menit", "99.95%", "1 minor", "22 menit"],
+          ["Desember 2025", "10 jam (5x maint)", "0 menit", "100%", "0", "N/A"],
+          ["Januari 2026", "8 jam (4x maint)", "35 menit", "99.92%", "2 minor", "17.5 menit"],
+          ["Februari 2026", "8 jam (4x maint)", "12 menit", "99.97%", "1 minor", "12 menit"],
+          ["Maret 2026", "8 jam (4x maint)", "0 menit", "100%", "0", "N/A"],
+          ["April 2026", "6 jam (3x maint)", "0 menit", "100%", "0", "N/A"]
+        ]
+      }
+    },
+    {
+      "h2": "Prosedur Emergency Maintenance di Luar Jadwal",
+      "h3": "",
+      "paragraphs": [
+        "Meskipun maintenance terjadwal sudah mencakup sebagian besar kebutuhan pemeliharaan, situasi tertentu mungkin memerlukan emergency maintenance di luar jadwal rutin. Situasi ini biasanya terkait dengan patch keamanan kritis yang harus diterapkan segera, bug yang berdampak pada integritas data keuangan pengguna, atau masalah performa akut yang tidak dapat ditunda hingga jadwal maintenance berikutnya.",
+        "Prosedur emergency maintenance mengikuti protokol ketat yang dimulai dengan assessment dampak oleh tim senior engineering. Jika maintenance darurat disetujui, notifikasi akan dikirim ke seluruh pengguna melalui multiple channels minimal 30 menit sebelum pelaksanaan, kecuali untuk insiden keamanan kritis dimana tindakan harus diambil segera demi melindungi keselamatan data pengguna.",
+        "Setelah emergency maintenance selesai, tim wajib mempublikasikan post-mortem report dalam waktu 48 jam yang menjelaskan penyebab, dampak, tindakan yang diambil, dan langkah pencegahan untuk masa depan. Laporan ini dapat diakses melalui halaman status page dan memberikan transparansi penuh kepada komunitas mengenai setiap insiden yang terjadi di luar rencana normal."
+      ],
+      "list": [
+        "Assessment dampak oleh tim senior engineering sebelum keputusan",
+        "Notifikasi multi-channel minimal 30 menit sebelum pelaksanaan",
+        "Durasi emergency maintenance tidak melebihi 4 jam",
+        "Post-mortem report dipublikasikan dalam 48 jam setelah insiden",
+        "Eskalasi otomatis jika durasi melebihi estimasi awal"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Dampak Maintenance Terhadap Akun dan Transaksi Pengguna",
+      "h3": "",
+      "paragraphs": [
+        "Salah satu pertanyaan paling umum dari pengguna adalah mengenai dampak maintenance terhadap akun dan transaksi aktif mereka. Sistem dirancang dengan mekanisme graceful shutdown yang memastikan semua sesi permainan aktif disimpan secara otomatis 15 menit sebelum maintenance dimulai. Saldo dan riwayat taruhan tidak akan terpengaruh oleh proses maintenance apapun karena data disimpan di database terpisah yang tidak ikut di-restart.",
+        "Untuk transaksi deposit yang sedang diproses saat maintenance dimulai, sistem antrian akan menahan transaksi tersebut dan memprosesnya secara otomatis begitu server kembali online. Pengguna tidak perlu melakukan deposit ulang karena transaksi yang sudah dikonfirmasi oleh payment gateway akan tetap valid. Proses ini biasanya selesai dalam 5-10 menit setelah platform kembali beroperasi normal.",
+        "Transaksi withdrawal yang belum diproses sebelum maintenance akan dilanjutkan sesuai urutan antrian setelah server aktif kembali. Tidak ada risiko kehilangan dana atau duplikasi transaksi karena sistem menggunakan mekanisme idempotency yang menjamin setiap transaksi hanya dieksekusi satu kali. Untuk pertanyaan detail lainnya silakan lihat bagian <a href=\"#faq\">FAQ</a> di bagian bawah halaman ini."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Tips Mengoptimalkan Pengalaman Selama Periode Maintenance",
+      "h3": "",
+      "paragraphs": [
+        "Meskipun maintenance hanya berlangsung dua jam di dini hari, beberapa pengguna yang aktif pada jam tersebut tetap perlu mempersiapkan diri. Langkah paling sederhana adalah menyelesaikan semua sesi permainan aktif setidaknya 30 menit sebelum jadwal maintenance dimulai untuk menghindari gangguan di tengah permainan. Hindari memulai sesi baru setelah pukul 02.30 WIB pada hari Selasa.",
+        "Pengguna juga disarankan untuk memproses transaksi deposit atau withdrawal sebelum pukul 02.00 WIB agar memiliki buffer waktu yang cukup untuk penyelesaian. Meskipun sistem mampu menangani transaksi tertunda dengan baik, menghindari transaksi mendekati jadwal maintenance akan memberikan ketenangan pikiran dan mengeliminasi kebutuhan untuk menghubungi customer support.",
+        "Bagi pengguna yang ingin mengetahui secara akurat kapan platform kembali online, berlangganan notifikasi melalui status page adalah metode paling andal. Notifikasi akan dikirim secara otomatis begitu semua komponen kembali ke status hijau dan platform siap digunakan kembali tanpa perlu melakukan pengecekan manual berulang kali."
+      ],
+      "list": [
+        "Selesaikan sesi permainan aktif 30 menit sebelum maintenance",
+        "Proses transaksi sebelum pukul 02.00 WIB pada hari Selasa",
+        "Berlangganan notifikasi status page untuk alert otomatis",
+        "Simpan link status page di bookmark browser untuk akses cepat",
+        "Jangan panik jika akses terganggu pada jadwal yang sudah diumumkan"
+      ],
+      "ordered": [],
+      "table": null
+    },
+    {
+      "h2": "Infrastruktur Pendukung dan Strategi Zero-Downtime di Masa Depan",
+      "h3": "",
+      "paragraphs": [
+        "Tim engineering sedang mengembangkan strategi untuk mencapai zero-downtime deployment pada akhir 2026. Pendekatan blue-green deployment akan memungkinkan update diterapkan pada server cadangan terlebih dahulu, lalu traffic dialihkan secara seamless tanpa pengguna menyadari adanya perpindahan. Teknologi ini sudah berhasil diuji pada lingkungan staging dan direncanakan untuk implementasi produksi pada Q4 2026.",
+        "Selain itu, migrasi ke arsitektur container-based menggunakan orchestrator modern akan meningkatkan kemampuan self-healing server. Jika sebuah instance mengalami masalah, sistem akan secara otomatis memindahkan workload ke instance sehat dalam hitungan detik tanpa memerlukan intervensi manual dari tim operasional. Ini merupakan lompatan besar dari model operasional tradisional yang masih mengandalkan monitoring manual.",
+        "Investasi berkelanjutan pada infrastruktur ini mencerminkan komitmen jangka panjang untuk memberikan pengalaman tanpa gangguan kepada seluruh pengguna. Lihat <a href=\"#perbandingan\">perbandingan</a> statistik downtime antar periode di tabel sebelumnya untuk memahami tren peningkatan yang konsisten dari waktu ke waktu dan arah perkembangan yang diambil oleh tim infrastruktur."
+      ],
+      "list": [],
+      "ordered": [],
+      "table": null
+    }
+  ],
+  "faq": [
+    {
+      "q": "Kapan jadwal maintenance rutin MAPSTOTO dilakukan?",
+      "a": "Maintenance rutin dilakukan setiap hari Selasa pukul 03.00 hingga 05.00 WIB. Jadwal ini konsisten setiap minggu dan akan diinformasikan jika ada perubahan melalui notifikasi resmi minimal 24 jam sebelumnya."
+    },
+    {
+      "q": "Apakah saldo saya aman selama maintenance berlangsung?",
+      "a": "Ya, saldo Anda sepenuhnya aman. Data keuangan disimpan di database terpisah yang tidak terpengaruh oleh proses maintenance. Sistem backup otomatis juga berjalan sebelum setiap maintenance untuk perlindungan tambahan."
+    },
+    {
+      "q": "Bagaimana jika saya sedang bermain saat maintenance dimulai?",
+      "a": "Sistem akan memberikan peringatan pop-up 15 menit sebelum maintenance. Sesi permainan aktif disimpan secara otomatis dan Anda dapat melanjutkan setelah maintenance selesai. Taruhan yang belum terselesaikan akan diproses sesuai aturan fairness yang berlaku."
+    },
+    {
+      "q": "Dimana saya bisa memantau status server secara real-time?",
+      "a": "Status page dapat diakses melalui tautan di footer situs utama. Halaman ini menampilkan kondisi semua komponen infrastruktur dengan update setiap 60 detik. Anda juga dapat berlangganan notifikasi email atau webhook untuk alert otomatis."
+    },
+    {
+      "q": "Berapa lama biasanya maintenance berlangsung?",
+      "a": "Maintenance rutin standar berlangsung selama 2 jam (03.00-05.00 WIB). Dalam kasus yang sangat jarang, durasi bisa diperpanjang hingga maksimal 4 jam jika ditemukan masalah kritis selama proses pemeliharaan. Perpanjangan akan diinformasikan melalui status page dan Telegram."
+    },
+    {
+      "q": "Apakah ada maintenance di luar jadwal Selasa?",
+      "a": "Emergency maintenance di luar jadwal rutin hanya dilakukan jika ada kebutuhan mendesak seperti patch keamanan kritis. Insiden seperti ini sangat jarang terjadi dan selalu didahului dengan notifikasi minimal 30 menit sebelumnya kepada seluruh pengguna."
+    }
+  ]
+}
