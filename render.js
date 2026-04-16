@@ -4,7 +4,7 @@
     loginUrl: 'https://loginwap.gelapsekali.com/maps',
     daftarUrl: 'https://daftarwap.gelapsekali.com/maps',
     bannerImg: 'https://i.imgur.com/Qg2Nk3k.jpeg',
-    baseUrl: 'https://lxgrup.github.io/mapstoto-web/'
+    baseUrl: 'https://situshub.github.io/mapstoto-web/'
   };
 
   // Set login/daftar links
